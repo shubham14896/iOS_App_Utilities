@@ -1,2 +1,2 @@
 # iOS App Utilities
-iOS Utilities / Extensions / Constants required for building an app from scratch.
+iOS Utilities / Extensions / Constants / Singleton Files required for building an app from scratch.
